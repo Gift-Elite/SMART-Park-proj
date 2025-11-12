@@ -48,7 +48,7 @@ const Login = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-blue-500 to-teal-600 px-4">
       <div className="bg-white rounded-lg shadow-lg p-8 w-full max-w-md">
-        <h1 className="text-3xl font-bold text-center text-gray-800 mb-2">SmartPark EPMS</h1>
+        <h1 className="text-3xl font-bold text-center text-gray-800 mb-2">SmartPark</h1>
         <p className="text-center text-gray-600 mb-8">Employee Payroll Management System</p>
 
         {error && (
